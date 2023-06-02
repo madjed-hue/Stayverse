@@ -13,8 +13,8 @@ import Counter from "../Inputs/Counter";
 import CategoryInput from "../Inputs/CategoryInput";
 import CountrySelect from "../Inputs/CountrySelect";
 import ImageUpload from "../Inputs/ImageUpload";
-import Input from "../inputs/Input";
 import Modal from "./Modal";
+import Input from "../inputs/Input";
 
 enum STEPS {
   CATEGORY = 0,
