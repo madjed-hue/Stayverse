@@ -16,6 +16,8 @@ export const metadata = {
     "innovative online platform designed to connect travelers with unique and diverse accommodations worldwide",
 };
 
+export const dynamic = "force-dynamic";
+
 export default async function RootLayout({
   children,
 }: {
