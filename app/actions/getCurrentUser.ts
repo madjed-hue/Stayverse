@@ -1,6 +1,6 @@
 import { getServerSession } from "next-auth/next";
 
-import { GET } from "../api/auth/[...nextauth]/route";
+import { GET } from "../api/auth/route";
 import prisma from "../libs/prismadb";
 
 export async function getSession() {
