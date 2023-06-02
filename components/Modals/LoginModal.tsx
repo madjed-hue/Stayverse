@@ -13,7 +13,7 @@ import Modal from "./Modal";
 import Heading from "../Heading";
 import Button from "../Button";
 import useRegisterModal from "@/app/hooks/useRegisterModal";
-import Input from "../inputs/Input";
+import Input from "../Inputs/CustomInput";
 
 const LoginModal = () => {
   const router = useRouter();

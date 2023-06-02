@@ -14,7 +14,7 @@ import CategoryInput from "../Inputs/CategoryInput";
 import CountrySelect from "../Inputs/CountrySelect";
 import ImageUpload from "../Inputs/ImageUpload";
 import Modal from "./Modal";
-import Input from "../inputs/Input";
+import Input from "../Inputs/CustomInput";
 
 enum STEPS {
   CATEGORY = 0,
